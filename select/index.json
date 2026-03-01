@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "pov",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-01T17:11:21.454851Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "pov",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_pov_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "pov",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_pov_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "pov",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/03_pov_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pov City Anthem",
+      "artist": "Caddillac Tah",
+      "has_synced": true,
+      "path": "select/04_Pov_City_Anthem_Caddillac_Tah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "pov",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_pov_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "pov",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_pov_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "POV",
+      "artist": "FEVER 333",
+      "has_synced": true,
+      "path": "select/07_POV_FEVER_333.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My POV",
+      "artist": "Rapp Gotti",
+      "has_synced": false,
+      "path": "select/08_My_POV_Rapp_Gotti.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "POV",
+      "artist": "Kid Ink",
+      "has_synced": false,
+      "path": "select/09_POV_Kid_Ink.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "POV",
+      "artist": "McFly",
+      "has_synced": true,
+      "path": "select/10_POV_McFly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "pov 2023",
+      "artist": "Mairo",
+      "has_synced": true,
+      "path": "select/11_pov_2023_Mairo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "POV",
+      "artist": "Pete Yorn",
+      "has_synced": false,
+      "path": "select/12_POV_Pete_Yorn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "pov",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_pov_Ariana_Grande.txt"
+    }
+  ]
+}
